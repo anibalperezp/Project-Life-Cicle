@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/vldocking_2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/acegi-security-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-validator-1.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-8.1-404.jdbc3.jar"/>
+	<classpathentry kind="lib" path="lib/servletapi-2.4-20040521.jar"/>
+	<classpathentry kind="lib" path="lib/spring-1.2.5.jar" sourcepath="/processGraphServer/core/src/java/ProcessGraphServer/service"/>
+	<classpathentry kind="lib" path="lib/struts-1.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/asm-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-j2ee-3.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-8.0-310.jdbc3.jar"/>
+	<classpathentry kind="lib" path="lib/quartz-all-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/processGraphServer-3.2-RC1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

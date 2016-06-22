@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="D:/workspace/DockProcessGraphClient/DockProcessGraphClient.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DockProcessGraphClient/desc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=DockProcessGraphClient/src&lt;src{Run.java[Run" manifestLocation="/DockProcessGraphClient/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/DockProcessGraphClient/.project"/>
+        <javaElement handleIdentifier="=DockProcessGraphClient/src"/>
+        <folder path="/DockProcessGraphClient/lib"/>
+        <file path="/DockProcessGraphClient/.classpath"/>
+    </selectedElements>
+</jardesc>

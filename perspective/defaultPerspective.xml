@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<VLDocking version="2.1">
+<DockingDesktop name="">
+<DockingPanel>
+<Split orientation="1" location="0.18245967741935484">
+<Split orientation="0" location="0.48211243611584326">
+<TabbedDockable>
+<Dockable>
+<Key dockName="Diagrama Activo"/>
+</Dockable>
+<Dockable>
+<Key dockName="Diagramas"/>
+</Dockable>
+</TabbedDockable>
+<TabbedDockable>
+<Dockable>
+<Key dockName="Propiedades"/>
+</Dockable>
+<Dockable>
+<Key dockName="Navegador"/>
+</Dockable>
+</TabbedDockable>
+</Split>
+<Dockable>
+<Key dockName="Area de Trabajo"/>
+</Dockable>
+</Split>
+</DockingPanel>
+<TabGroups>
+<TabGroup>
+<Dockable>
+<Key dockName="Diagrama Activo"/>
+</Dockable>
+<Dockable>
+<Key dockName="Diagramas"/>
+</Dockable>
+</TabGroup>
+<TabGroup>
+<Dockable>
+<Key dockName="Propiedades"/>
+</Dockable>
+<Dockable>
+<Key dockName="Navegador"/>
+</Dockable>
+</TabGroup>
+</TabGroups>
+</DockingDesktop>
+</VLDocking>

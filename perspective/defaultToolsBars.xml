@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VLToolBars version="1.0">
+<Container>
+<ToolBarPanel position="top">
+<ToolBar name="Archivo" major="0" minor="0" collapsed="false"/>
+<ToolBar name="Edicion" major="0" minor="1" collapsed="false"/>
+<ToolBar name="Zoom" major="0" minor="2" collapsed="false"/>
+<ToolBar name="Historial" major="0" minor="3" collapsed="false"/>
+</ToolBarPanel>
+<ToolBarPanel position="left">
+</ToolBarPanel>
+<ToolBarPanel position="bottom">
+</ToolBarPanel>
+<ToolBarPanel position="right">
+</ToolBarPanel>
+</Container>
+</VLToolBars>
